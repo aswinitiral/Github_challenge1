@@ -1,1 +1,2 @@
-# Github_challenge1
+# Github is the Central Repository.
+It is commonly used tool.
